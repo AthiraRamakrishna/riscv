@@ -20,7 +20,7 @@ targets = [
 ]
 
 [build-dependencies]
-riscv-target-parser = { path = "../riscv-target-parser", version = "0.1.0" }
+riscv-target-parser = { path = "../riscv-target-parser", version = "0.1.1" }
 
 [dependencies]
 riscv = { path = "../riscv", version = "0.13.0" }
